@@ -1,6 +1,6 @@
 ---
 
-# 💻 CSC-521 Object-Oriented Programming – Lab 05
+# 💻 CSC-521 Object-Oriented Programming – Lab 06
 
 This lab focuses on applying **constructors and destructors** in real-world scenarios. Students will explore constructor chaining, multi-level constructor execution, destructor order, and dynamic memory management with destructors.
 
