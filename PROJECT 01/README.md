@@ -37,32 +37,6 @@ OOP_PBL_2025-SE-05/
 
 ---
 
-## How to Build and Run
-
-### Option 1 — Dev-C++ (Recommended for Windows)
-
-1. Open **Dev-C++ 5.11**
-2. Go to `File` → `Open Project`
-3. Select `Zain's Airline System.dev`
-4. Press **F11** to compile and run
-
-### Option 2 — Command Line (MinGW / g++)
-
-Open a terminal in the project folder and run:
-
-```bash
-g++ -std=c++14 -o airline main.cpp Flight.cpp DerivedFlights.cpp Passenger.cpp Ticket.cpp Airline.cpp
-airline.exe
-```
-
-### Option 3 — Run Directly
-
-A pre-compiled `Zain's Airline System.exe` is included. Just double-click it to run.
-
-> **Note:** Make sure the `data/` folder exists in the same directory as the executable, otherwise the program will create it automatically on first save.
-
----
-
 ## Sample Data
 
 The file `data/airline_data.txt` contains pre-loaded sample data:
