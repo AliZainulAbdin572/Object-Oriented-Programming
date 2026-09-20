@@ -1,4 +1,4 @@
-# SkyLink Airways — Airline Reservation & Flight Management System
+# ✈️SkyLink Airways — Airline Reservation & Flight Management System
 
 **Course:** Object-Oriented Programming (C++)  
 **Assignment:** Problem-Based Learning (PBL) — Individual  
@@ -6,13 +6,13 @@
 
 ---
 
-## Project Overview
+## 📝Project Overview
 
 SkyLink Airways is a console-based Airline Reservation and Flight Management System built in C++. It allows an airline to manage flights, register passengers, book and cancel tickets, generate reports, and automatically save and restore all data between runs.
 
 ---
 
-## Project Structure
+## 🧩Project Structure
 
 ```
 OOP_PBL_2025-SE-05/
@@ -37,7 +37,7 @@ OOP_PBL_2025-SE-05/
 
 ---
 
-## Sample Data
+## 🧪Sample Data
 
 The file `data/airline_data.txt` contains pre-loaded sample data:
 
@@ -48,7 +48,7 @@ This data loads automatically every time the program starts.
 
 ---
 
-## Menu Options
+## ⚙️Menu Options
 
 ```
 1.  Add Flight
@@ -67,7 +67,7 @@ This data loads automatically every time the program starts.
 
 ---
 
-## Flight Types
+## 🛫Flight Types
 
 | Type | Extra Info Required | Fare Formula |
 |------|-------------------|--------------|
@@ -77,7 +77,7 @@ This data loads automatically every time the program starts.
 
 ---
 
-## Passenger Classes & Refund Policy
+## 💺Passenger Classes & Refund Policy
 
 | Class | Baggage | Loyalty Points | Refund Rules |
 |-------|---------|---------------|--------------|
@@ -87,7 +87,7 @@ This data loads automatically every time the program starts.
 
 ---
 
-## OOP Features Used
+## 💻OOP Features Used
 
 | Feature | Where Used |
 |---------|-----------|
@@ -103,7 +103,7 @@ This data loads automatically every time the program starts.
 
 ---
 
-## Data File Format
+## 📄Data File Format
 
 The system saves data in pipe-delimited (`|`) text format:
 
@@ -119,7 +119,7 @@ REVENUE|SK101|125.00
 
 ---
 
-## Known Limitations
+## 🔒Known Limitations
 
 - Date input is string-based (YYYY-MM-DD) — no calendar validation
 - Fare prices are formula-based for demonstration; real pricing would use a dynamic database
@@ -127,6 +127,6 @@ REVENUE|SK101|125.00
 
 ---
 
-## Academic Integrity
+## 🎓Academic Integrity
 
 This project was individually developed by **Ali Zain Ul Abdin (2025-SE-05)** as part of the OOP PBL assignment. AI tools were used to clarify concepts and debug — all submitted code is understood and can be defended in the viva.
